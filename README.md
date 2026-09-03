@@ -1,6 +1,6 @@
 # Hi there 😃, My name is Ozimi Whoke!
 ....
-A Junior frontend web developer and Data Analyst 💻
+A Junior frontend web developer and a Data Analyst 💻
 
 I love to build, make and create new things.
 
